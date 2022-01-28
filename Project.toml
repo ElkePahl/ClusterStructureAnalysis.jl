@@ -1,6 +1,6 @@
 name = "ClusterStructureAnalysis"
 uuid = "2442c3d4-a72b-48e4-981e-1ec681d20b6e"
-authors = ["Elke Pahl <Elke.Pahl@auckland.ac.nz> and contributors"]
+authors = ["Elke Pahl <Elke.Pahl@auckland.ac.nz> and A.J. Tyler <atyl386@aucklanduni.ac.nz> and contributors"]
 version = "0.1.0"
 
 [compat]
