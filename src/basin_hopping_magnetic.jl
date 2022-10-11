@@ -365,7 +365,7 @@ end
 radius=2^(1/6)*(0.5+(3*N/4/pi/2^0.5)^(1/3))*sigma
 println("r=",radius)
 displacement=1.1
-BHstep=10000
+BHstep=10
 BH=1
 T=10000
 T_cg=0.0005
