@@ -3,7 +3,7 @@
 
 # This script calls the compare and classify function from the main module.
 
-include("main.jl")
+include("/home/tyu044/Downloads/CNA/CNA/main.jl")
 using .main
-compare("DianaConfigs")
-classify("DianaConfigs")
+compare("/home/tyu044/Downloads/CNA/CNA/DianaConfigs")
+classify("/home/tyu044/Downloads/CNA/CNA/CNA/DianaConfigs")
